@@ -1,0 +1,22 @@
+Lecture -02  Introduction
+Lecture -03  Rectifier
+Lecture -04  Clipper circuits
+Lecture -05  Clamper circuits & Operational Amplifier
+Lecture -06  Operational amplifier ( Part 1 )
+Lecture -07  Operational amplifier ( Part 2 )
+Lecture -08  Operational amplifier ( Part 3 )
+Lecture -09  Programable Logic Array (PLA)
+Lecture -10  Zener Diode
+Lecture -11  Review of Mid Tream ( Part 1)
+Lecture -12  Review of Mid Tream ( Part 2)
+Lecture -13  BJT
+Lecture -14  BJT IP OP characteristics & transistor biasing
+Lecture -15  More bias config
+Lecture -16  Voltage divider bias and mosfet
+Lecture -17  D-Mosfet
+Lecture -18  E-Mosfet Maths
+Lecture -19  Implementationof Boolean Function Using E-Mos
+Lecture -20  Sequential Circuit ( SR & D Flip-Flop)
+Lecture -21  JK & T Flip-Flop
+Lecture -22  Synchronous Counter Design
+Lecture -23  Review of Final Term
