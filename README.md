@@ -22,7 +22,7 @@ Welcome to the Electronic Devices and Circuits (Pulse Techniques) EEE-203 reposi
 
 In this course, we will explore various topics related to electronic devices and pulse techniques, including diode circuit models, operational amplifiers (OP-AMPs), flip-flops, counters, memory systems, FETs, MOSFETs, BJTs, and more. This repository provides comprehensive materials and problem sets designed to help students grasp and apply these concepts.
 
-Check out the playlist now and start your learning journey: [Electronic-Devices-and-Circuits-Pulse-Techniques---EEE-203 YouTube Playlist Link](https://youtube.com/playlist?list=PLEc-WcPXUsjuoqsICuVclwEfn9-THFJfP&si=Dah3nMCqftnC12Iz)  
+Check out the playlist now and start your learning journey: [Electronic-Devices-and-Circuits-Pulse-Techniques---EEE-203 YouTube Playlist Link](https://youtube.com/playlist?list=PLEc-WcPXUsjv6NWQm9J0ztnCwLxqCynAx&si=zuNOgHc-XtO_6F6o)  
 **Happy Learning!**
 
 ## Course Outline
