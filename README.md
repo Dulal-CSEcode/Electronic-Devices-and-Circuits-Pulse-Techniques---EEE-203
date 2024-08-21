@@ -1,5 +1,5 @@
 <h1 align="center">--- Electronic-Devices-and-Circuits-Pulse-Techniques---EEE-203 ---</h1>  
-<h3 align="center">-- Spring 2024 --</h3>  
+<h3 align="center">-- Spring 2023 --</h3>  
 <br />  
 Welcome to the Electronic Devices and Circuits (Pulse Techniques) EEE-203 repository. This repository contains course materials, assignments, and resources for the Electronic Devices and Circuits course.  
 <br />  
