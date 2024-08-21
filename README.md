@@ -4,7 +4,7 @@
 Welcome to the Electronic Devices and Circuits (Pulse Techniques) EEE-203 repository. This repository contains course materials, assignments, and resources for the Electronic Devices and Circuits course.  
 <br />  
 
-![Electronic Devices and Circuits](edcbanner.PNG)  
+![Electronic Devices and Circuits](eee203banner.PNG)  
   
 <br />  
 
